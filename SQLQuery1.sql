@@ -5,6 +5,7 @@
 
 Create database dbHarsh;
 go
+use dbHarsh;
 
 Create table tblInfo
 (
